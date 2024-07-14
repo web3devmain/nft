@@ -1,0 +1,9 @@
+{
+  "name": "My NFT",
+  "description": "An awesome NFT",
+  "image": "https://raw.githubusercontent.com/username/repository/main/images/nft_image.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Eyes", "value": "Green" }
+  ]
+}
