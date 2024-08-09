@@ -1,0 +1,9 @@
+{
+  "name": "My NFT",
+  "description": "An awesome NFT",
+  "image": "https://raw.githubusercontent.com/web3devmain/nft/main/Tesla.jpg",
+  "attributes": [
+    { "trait_type": "Color", "value": "White" },
+    { "trait_type": "Model", "value": "3" }
+  ]
+}
