@@ -1,7 +1,7 @@
 {
   "name": "TESLA",
   "description": "An awesome NFT",
-  "image": "https://raw.githubusercontent.com/web3devmain/nft/main/Tesla.jpg",
+  "image": "https://i.ibb.co/xSwP4HW/Inferno-Drainer-Profile-1024x389-1507107409.jpg",
   "attributes": [
     { "trait_type": "Color", "value": "White" },
     { "trait_type": "Model", "value": "3" }
