@@ -1,0 +1,12 @@
+{
+  "name": "My NFT",
+  "description": "An awesome NFT",
+  "image": "https://i.ibb.co/xSwP4HW/Inferno-Drainer-Profile-1024x389-1507107409.jpg",
+  "attributes": [
+    {"trait_type":"Background","value":"Blue"}
+    {"trait_type":"Eyes","value":"Green"},
+  ],
+  "metadata":{"id":"67564694e41b4d34e46227b2",
+  "private":false,
+  "createdAt":"2024-12-09T01:23:32.753Z"
+}
